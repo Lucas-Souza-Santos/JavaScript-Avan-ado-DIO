@@ -1,0 +1,7 @@
+Parte  1: Arrow Functions
+    funções anonimas precisariam está atribuida a uma 
+    variável ou passada como parâmetro para outra função
+
+    Arrow function tem a propriedade de ter o contexto
+    igual ao código que envolve ele.
+

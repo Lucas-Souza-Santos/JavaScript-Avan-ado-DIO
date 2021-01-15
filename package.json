@@ -1,0 +1,19 @@
+{
+  "name": "javascript-avan-ado-dio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ArrowFunctions",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lucas-Souza-Santos/JavaScript-Avan-ado-DIO.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lucas-Souza-Santos/JavaScript-Avan-ado-DIO/issues"
+  },
+  "homepage": "https://github.com/Lucas-Souza-Santos/JavaScript-Avan-ado-DIO#readme"
+}
