@@ -11,12 +11,12 @@ function sum3(...valor)
         soma += valor[i];
     }
     console.log("SOMA = " + soma);
-    
+
     return valor.reduce((acc, value) => acc + value, 0 );
 
 }
 
-console.log(sum3(5, 6, 5, 6, 7, 8));
+console.log("SOMA = " + sum3(5, 6, 5, 6, 7, 8));
 
 /**
  * No caso de array function o uso de arguments é 
