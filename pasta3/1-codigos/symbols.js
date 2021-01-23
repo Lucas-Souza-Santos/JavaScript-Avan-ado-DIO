@@ -87,12 +87,3 @@ console.log(it.next());
 const arr2 = [...obj];
 console.log(arr2);
 
-
-
-
-
-
-
-
-
-
