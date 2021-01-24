@@ -1,0 +1,4 @@
+
+antig api xml http request
+
+nova api fetch ela trabalha usando promises 
