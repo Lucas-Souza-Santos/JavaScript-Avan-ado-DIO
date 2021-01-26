@@ -1,0 +1,15 @@
+{
+  "name": "1-codigos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mocha.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "moch": "0.0.1"
+  }
+}
